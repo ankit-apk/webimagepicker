@@ -1,6 +1,6 @@
 name: web_image_picker
-description: A new Flutter project.
-version: 0.0.1
+description: A dart package to select image from local device and get it as file or uint8List for uploading as multipart or converting in base64 and uploading.
+version: 0.0.2
 homepage: https://github.com/ankit-apk/webimagepicker
 
 environment:
